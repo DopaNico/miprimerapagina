@@ -1,17 +1,17 @@
 // alert("Este es mi javascript");
 
-var contenidoTitulo = "Cambiar titulo";
-var titulo = document.querySelector(".section-principal .fuente-acento");
-titulo.innerHTML = contenidoTitulo;
+// var contenidoTitulo = "Cambiar titulo";
+// var titulo = document.querySelector(".section-principal .fuente-acento");
+// titulo.innerHTML = contenidoTitulo;
 
-var textoTitulo = titulo.innerText;
-console.log(textoTitulo);
+// var textoTitulo = titulo.innerText;
+// console.log(textoTitulo);
 
-if(textoTitulo == "Cambiar titulo"){
-    titulo.innerHTML = "Amelia, te amo";
-} else {
-    console.log("no se cumple");
-}
+// if(textoTitulo == "Cambiar titulo"){
+//     titulo.innerHTML = "Amelia, te amo";
+// } else {
+//     console.log("no se cumple");
+// }
 
 var nombre = "Andres";
 var ciudad = "Cba";
